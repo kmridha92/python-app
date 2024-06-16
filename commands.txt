@@ -1,0 +1,2 @@
+docker build -t python-app:1.0 .
+docker run --name python-app -d python-app:1.0

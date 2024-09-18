@@ -4,7 +4,7 @@ metadata:
   name: python-app
   annotations:
     github.com/project-slug: kmridha92/python-app
-    backstage.io/techdocs-ref: README.md
+    backstage.io/techdocs-ref: https://github.com/kmridha92/python-app/blob/main/README.md
 spec:
   type: other
   lifecycle: unknown
